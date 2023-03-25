@@ -2,4 +2,4 @@
 
 ### learn HTML & CSS on freeCodeCamp responsive design
 
-### Just wanna make sure that i save my lil progress in github, that's why i push it
+_Just wanted to save my lil progress on github, that's why i pushed it to this repo_
